@@ -1,4 +1,4 @@
-// const country = 'Banglades'
+// const country = 'Bangladesh'
 // const divison = 'Dhaka'
 // const thana = new String ('Uttarkhan')
 
